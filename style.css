@@ -39,6 +39,7 @@ p{text-align: center; color: black;}
 .masthead-heading{color:black;}
 h3{color: black;
 margin-left: 15%;}
+
 h4{text-align: center;}
 #center{align-items: center;
 display:inline-flex;
@@ -60,3 +61,4 @@ text-decoration: none;}
 #submitButton{background-color: #3d3c3c;
 border-color: #BEBEBE;
 color:white;}
+#home{margin-right: 0%;}
