@@ -1,0 +1,62 @@
+::-webkit-scrollbar { 
+    width: 12px;}
+::-webkit-scrollbar-track {
+    background-color:#3d3c3c;
+   }
+::-webkit-scrollbar-thumb {
+    width: 0px;
+    background:lightgrey ; 
+    border-radius: 6px; /}
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(168, 168, 168);}
+  
+body{background-color: rgb(191, 191, 191);}
+#nav1{ transition: 0.3s;
+color: #BEBEBE;}
+#nav1:hover{ transform: scale(1.1); 
+    cursor: pointer;
+    color:  hsla(15, 21%, 65%, 1);}
+#mainNav{background-color:#3d3c3c;}
+#hdback{background: hsla(15, 21%, 65%, 1);
+
+    background: linear-gradient(270deg, hsla(15, 21%, 65%, 1) 45%, hsla(0, 0%, 75%, 1) 65%);
+    
+    background: -moz-linear-gradient(270deg, hsla(15, 21%, 65%, 1) 45%, hsla(0, 0%, 75%, 1) 65%);
+    
+    background: -webkit-linear-gradient(270deg, hsla(15, 21%, 65%, 1) 45%, hsla(0, 0%, 75%, 1) 65%);
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#B89C93", endColorstr="#C0C0C0", GradientType=1 );}
+    #hdback1{background: hsla(15, 21%, 65%, 1);
+
+        background: linear-gradient(90deg, hsla(15, 21%, 65%, 1) 45%, hsla(0, 0%, 75%, 1) 65%);
+        
+        background: -moz-linear-gradient(90deg, hsla(15, 21%, 65%, 1) 45%, hsla(0, 0%, 75%, 1) 65%);
+        
+        background: -webkit-linear-gradient(90deg, hsla(15, 21%, 65%, 1) 45%, hsla(0, 0%, 75%, 1) 65%);
+        
+        filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#B89C93", endColorstr="#C0C0C0", GradientType=1 );}
+p{text-align: center; color: black;}
+.masthead-heading{color:black;}
+h3{color: black;
+margin-left: 15%;}
+h4{text-align: center;}
+#center{align-items: center;
+display:inline-flex;
+margin-left: 5%;}
+
+.img-fluid{border-radius: 10%;}
+.img-fluid:hover{ transform: scale(1.1);
+    cursor: pointer;}
+
+h2{color: black;}
+footer{background-color:#3d3c3c;}
+#h4{color:white;
+text-decoration: none;}
+#h5{color: #b89c93;
+    text-decoration:none;}
+::selection {
+    background-color:black; 
+    color: #bebebe;}
+#submitButton{background-color: #3d3c3c;
+border-color: #BEBEBE;
+color:white;}
