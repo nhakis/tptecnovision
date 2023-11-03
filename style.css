@@ -61,4 +61,8 @@ text-decoration: none;}
 #submitButton{background-color: #3d3c3c;
 border-color: #BEBEBE;
 color:white;}
-#home{margin-right: 0%;}
+
+.bss{background-color:#b89c93;
+color:#3d3c3c;
+position:fixed;
+right: 20%;}
